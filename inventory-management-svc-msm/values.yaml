@@ -3,7 +3,7 @@ global:
   tlsSecretName: mooc-one-ocp-cluster
 
 inventory-management-svc-msm:
-  replicaCount: 3
+  replicaCount: 4
   
   ingress:
     enabled: true
