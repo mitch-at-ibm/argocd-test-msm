@@ -1,0 +1,11 @@
+global:
+  ingressSubdomain: mooc-one-ocp-cluster.us-south.containers.appdomain.cloud
+  tlsSecretName: mooc-one-ocp-cluster
+
+inventory-management-bff-msm:
+  replicaCount: 4
+  
+  ingress:
+    enabled: true
+    tlsSecretName: mooc-one-ocp-cluster
+
