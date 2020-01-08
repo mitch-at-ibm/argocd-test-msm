@@ -4,7 +4,7 @@ global:
 
 inventory-management-ui-msm:
   serviceUrl: test-inventory-management-bff-msm:80
-  replicaCount: 1
+  replicaCount: 3
   
   ingress:
     enabled: true
