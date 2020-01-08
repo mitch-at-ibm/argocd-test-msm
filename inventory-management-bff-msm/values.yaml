@@ -1,5 +1,5 @@
 global:
-  ingressSubdomain: mooc-one-ocp-cluster.us-south.containers.appdomain.cloud
+  ingressSubdomain: mooc-one-ocp-clus-532507-0143c5dd31acd8e030a1d6e0ab1380e3-0000.us-east.containers.appdomain.cloud
   tlsSecretName: mooc-one-ocp-clus-532507-0143c5dd31acd8e030a1d6e0ab1380e3-0000
 
 inventory-management-bff-msm:
