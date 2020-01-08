@@ -1,5 +1,5 @@
 dependencies:
   - name: inventory-management-svc-msm
-    version: 1.0.0-7
+    version: 1.0.0-9
     repository: >-
       http://artifactory.mooc-one-ocp-clus-532507-0143c5dd31acd8e030a1d6e0ab1380e3-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/mooc-team-one
