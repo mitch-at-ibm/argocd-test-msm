@@ -3,7 +3,7 @@ global:
   tlsSecretName: mooc-one-ocp-cluster
 
 inventory-management-bff-msm:
-  replicaCount: 4
+  replicaCount: 2
   
   ingress:
     enabled: true
