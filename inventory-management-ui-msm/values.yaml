@@ -2,7 +2,7 @@ global:
   ingressSubdomain: mooc-one-ocp-clus-532507-0143c5dd31acd8e030a1d6e0ab1380e3-0000.us-east.containers.appdomain.cloud
   tlsSecretName: mooc-one-ocp-clus-532507-0143c5dd31acd8e030a1d6e0ab1380e3-0000
 
-inventory-management-svc-msm:
+inventory-management-ui-msm:
   replicaCount: 1
   
   ingress:
