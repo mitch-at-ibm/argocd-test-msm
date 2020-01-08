@@ -3,7 +3,7 @@ global:
   tlsSecretName: mooc-one-ocp-clus-532507-0143c5dd31acd8e030a1d6e0ab1380e3-0000
 
 inventory-management-ui-msm:
-  serviceUrl: test-inventory-management-bff-msm:80
+  apiHost: test-inventory-management-bff-msm:80
   replicaCount: 3
   
   ingress:
